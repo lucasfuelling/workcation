@@ -1,4 +1,8 @@
 # tailwindvue
+node version 15!
+vue create tailwindvue
+npm install tailwindcss@npm:@tailwindcss/postcss7-compat postcss@^7 autoprefixer@^9
+npx tailwindcss init -p
 
 ## Project setup
 ```
